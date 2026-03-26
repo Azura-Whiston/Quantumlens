@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Virtual environment
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.local
+
+# Pytest
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code
+.claude/
+CLAUDE.md
+
+# Internal planning docs (not needed to run)
+plan.md
+P00_INDEX.md
+P01_HARDWARE_AND_LIMITS.md
+P02_GPU_SIMULATION_ENGINE.md
+P03_API_SERVER.md
+P06_DATA_AND_STORAGE.md
+P09_DEPLOYMENT.md
+P10_ROADMAP.md
+research/
