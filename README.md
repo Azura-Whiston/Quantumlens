@@ -235,6 +235,6 @@ Fork it, branch it, make sure all 125 tests pass, open a PR.
 
 ## License
 
-MIT + [Commons Clause](https://commonsclause.com/).
+AGPL-3.0. See [LICENSE](LICENSE).
 
-Free for personal use, learning, academic research, university courses, and non-profit education. Commercial use (selling, SaaS, paid services) requires written permission. [Contact for commercial licensing.](mailto:INSERT_YOUR_EMAIL)
+You can use, modify, and distribute this freely. If you host a modified version as a service, you must open source your changes under the same license.
